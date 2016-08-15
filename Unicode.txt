@@ -242,7 +242,7 @@ WideCharToMultiByte (0, 0, UTF16, UTF16长度, 结果, ANSI长度, 0, 0)
 
 返回 (0)
 
-.DLL命令 MessageBoxW, 整数型, "user32.dll", "MessageBoxW"
+.DLL命令 MessageBoxW, 整数型, "User32.dll", "MessageBoxW", 公开
     .参数 hWnd, 整数型
     .参数 lpMessage, 字节集
     .参数 lpCaptain, 字节集
