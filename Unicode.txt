@@ -1,4 +1,22 @@
-﻿.版本 2
+﻿
+' Copyright (c) 2016 StarBrilliant <m13253@hotmail.com>
+' All rights reserved.
+'
+' Redistribution and use in source and binary forms are permitted
+' provided that the above copyright notice and this paragraph are
+' duplicated in all such forms and that any documentation,
+' advertising materials, and other materials related to such
+' distribution and use acknowledge that the software was developed by
+' StarBrilliant.
+' The name of StarBrilliant may not be used to endorse or promote
+' products derived from this software without specific prior written
+' permission.
+'
+' THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
+' IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+' WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+.版本 2
 
 .程序集 Unicode, , , 一个进行 Unicode 相关字符串转换的易语言库。本库以 BSD 协议发布，参见随附的 LICENSE.txt 文件。
 
