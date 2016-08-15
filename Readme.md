@@ -19,6 +19,8 @@ An Eyuyan library dealing with Unicode string conversion.
 
 笔者认为你已经有 C 等高级编程语言的基础，因为某些原因迫不利己而使用易语言。
 
+本库提供 `Unicode.e` 和 `Unicode.txt` 两个文件。因为易语言源代码是二进制格式，所以后者是前者的文本导出版，实际内容相同。
+
 因为 Windows 使用 UTF-16 Little Endian 来表示 Unicode 字符串，所以本库提供 UTF-8 和 ANSI 到 UTF-16 的转换。
 
 在转换到 UTF-16 后，可以传入 Win32 Wide API 来使用。
@@ -47,7 +49,7 @@ MessageBoxW (0, 0, 字节集加零 (转换自ANSI), 字节集加零 (转换自UT
 协议 License
 ------------
 
-本库以 BSD 协议发布，参见随附的 LICENSE.txt 文件。
+本库以 BSD 协议发布，参见随附的 `LICENSE.txt` 文件。
 
-This library is released under BSD license. Please see the LICENSE.txt file, which is provided in this package.
+This library is released under BSD license. Please see the `LICENSE.txt` file, which is provided in this package.
 
